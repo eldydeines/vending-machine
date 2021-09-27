@@ -1,0 +1,27 @@
+.VM-div {
+    display: flexbox;
+    justify-content: center;
+    align-items: center;
+
+}
+
+img {
+    width: 50%;
+    display:inline;
+}
+
+p {
+    vertical-align: middle;
+    width: 50%;
+    display:inline;
+    text-transform: capitalize;
+    color: red;
+    font-weight:bold;
+}
+
+.VM-a {
+    margin: 5px;
+    display: block;
+    padding: 5px;
+    text-decoration: none;
+}

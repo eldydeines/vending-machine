@@ -1,0 +1,14 @@
+.Navbar {
+    font-size: 16px;
+    margin-top:15px;
+    margin-bottom: 50px;
+}
+
+.Navbar a {
+    color: blue;
+    margin: 1rem;
+}
+
+.Navbar a.active {
+    color: purple;
+}
